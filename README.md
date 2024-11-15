@@ -20,7 +20,7 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
     ### Doctors
 
-  - View their Appointment
+- View their Appointment
 - View their scheduled sessions
 - View details of patients
 - Delete account    
@@ -30,7 +30,7 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 ### Patiens(Clients)
 
-- Make appointment online
+  - Make appointment online
   - Create accounts themslves
   - View their old booking
   - Delete account
@@ -50,10 +50,10 @@ This full stack appointment booking system can be used by a doctor or a hospital
 ![Screenshot 2024-11-15 195924](https://github.com/user-attachments/assets/19b6b30f-4a12-4551-a771-044b11c8a8d8) |
 ![Screenshot 2024-11-15 195944](https://github.com/user-attachments/assets/7f3556b3-be14-4535-ae1a-87cf160ef1b2) |
 # This project is a Mern Stack Project which was developed using the following:
--React JS
--Mongo DB
--Express JS
--Node Js
+- React JS
+- Mongo DB
+- Express JS
+- Node Js
 
 ## Live https://prescripto-frontend-wd0f.onrender.com
 
