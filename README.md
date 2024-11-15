@@ -53,7 +53,7 @@ This full stack appointment booking system can be used by a doctor or a hospital
 - React JS
 - Mongo DB
 - Express JS
-- Node Js
+- Node JS
 
 ## Live https://prescripto-frontend-wd0f.onrender.com
 
